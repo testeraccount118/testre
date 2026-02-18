@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+acreto.ca	TRUE	/	FALSE	1999999999	_shopify_analytics	:AZxuyPQVAAEAzfTwDIaZ33MpXKguVc7Zpx_dh4F4nHKqMtoN_0kXLM8TIJrrrSBn8DEExBw:
+acreto.ca	TRUE	/	FALSE	1999999999	_shopify_essential	:AZxuyPN-AAEAb-XptGozDcZ5RKfuEzC1x7zxDPld0XGY2j19HmxxKOA6H3K-BU6ml-49GNuxLAr8vwRCu5rbg8XWeEayQ-edtSfs0ym-2yX1VSJ1lM_CBj1bjj8CU42mlIzXFNMN4IUldUlIPdBzSgC6RYlVOTAyzasObFeQ-PnbgFk8WC8lER1b8pVLUDeSJo7-9pBlZ8k5Ct8tij5LvkJCFBI4qlNlz6JWzr77VzDb4QiMtSFtIM_y9sujGi8x_jDuSJnePtuWCRW_nXikzSABrgdPUlzzPRRpBAFvJ25g3qt_GVOUMQHiMOe9hUAxgGre97k-P7VZNBRuCOFf2OLYZ2n3FNFTj_jquxfHZb6I3UfJSCAQTgWZg5KDsDlhifEp0wE:
+acreto.ca	TRUE	/	FALSE	1999999999	Priority	High
+acreto.ca	TRUE	/	FALSE	1999999999	_shopify_y	d5cd7d48-011f-4002-8f2b-16520ae24775
+acreto.ca	TRUE	/	FALSE	1999999999	_shopify_s	f79ea60b-57a4-4d47-86c7-25d00a0cab56
+acreto.ca	TRUE	/	FALSE	1999999999	localization	US
+acreto.ca	TRUE	/	FALSE	1999999999	cart	hWN8ubzeEHrx6Qm51ltVWUkM%3Fkey%3D6a84ff57f5676a58c2f910f70e13a9fa
+acreto.ca	TRUE	/	FALSE	1999999999	cart_currency	USD
+acreto.ca	TRUE	/	FALSE	1999999999	SameSite	Lax
+
